@@ -1,3 +1,3 @@
 # Blogmanity API
 
-Built using : node.js, express.js, mongoDB, mongoose and love :D
+Blogging web app API, built using : node.js, express.js, mongoDB and mongoose.
